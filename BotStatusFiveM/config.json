@@ -1,0 +1,6 @@
+{
+    "BOT_TOKEN": "Votre token",
+    "SERVER_URL": "Ip du serveur + proxy",
+     "SERVER_NAME": "Nom du serveur",
+    "PREFIX": "+",
+}
